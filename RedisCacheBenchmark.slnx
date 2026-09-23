@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/CacheDemo.Benchmarks/CacheDemo.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/CacheDemo/CacheDemo.csproj" />
+  </Folder>
+</Solution>
