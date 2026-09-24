@@ -4,3 +4,4 @@ BenchmarkDotNet.Artifacts/
 .dotnet/
 .templateengine/
 .nuget/
+/AGENTS.md
